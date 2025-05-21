@@ -12,3 +12,7 @@ It a   methods for converting text into a series of short and long signal.
 examples
 	HELLO → …. . .-.. .-.. ---
 CODE → -.-. --- -.. .
+
+
+wikipedia - Morse code
+International Morse code chart
