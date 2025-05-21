@@ -1,4 +1,4 @@
-#pat2-subtaaaaask1
+#pat2-subtask1
 
 Morse code is a method used in telecommunication to encode text characters as sequences of two different signal durations, called dots and dashes.
 A systems  of  communication that use a series of dots 
